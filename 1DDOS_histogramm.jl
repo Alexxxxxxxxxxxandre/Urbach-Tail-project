@@ -7,7 +7,6 @@ using Random
 using Plots
 using EasyFit
 
-
 global Noise_lvl = [0.0,1.0]
 global ev = 1.6*10^(-19)
 
